@@ -1,0 +1,27 @@
+.hero-banner {
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1059%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(156%2c 197%2c 239%2c 1)'%3e%3c/rect%3e%3cpath d='M0%2c509.507C100.377%2c520.197%2c202.101%2c500.52%2c291.335%2c453.326C385.534%2c403.506%2c463.498%2c328.267%2c516.972%2c236.093C574.127%2c137.576%2c625.393%2c25.061%2c604.777%2c-86.954C584.369%2c-197.836%2c477.872%2c-265.083%2c408.389%2c-353.871C334.508%2c-448.279%2c292.214%2c-574.511%2c183.571%2c-625.186C69.853%2c-678.228%2c-65.704%2c-669.021%2c-185.203%2c-630.743C-303.127%2c-592.969%2c-417.296%2c-521.876%2c-477.225%2c-413.518C-533.677%2c-311.448%2c-508.799%2c-186.914%2c-494.706%2c-71.128C-483.554%2c20.494%2c-446.743%2c102.67%2c-404.413%2c184.689C-364.038%2c262.921%2c-322.649%2c340.121%2c-254.011%2c395.25C-180.13%2c454.59%2c-94.228%2c499.472%2c0%2c509.507' fill='%236ca9e7'%3e%3c/path%3e%3cpath d='M1440 888.0260000000001C1517.73 894.409 1596.13 945.284 1667.721 914.341 1740.624 882.831 1780.872 802.792 1809.0230000000001 728.527 1836.037 657.261 1827.038 581.048 1822.907 504.946 1818.372 421.402 1846.142 317.874 1783.71 262.174 1719.746 205.10700000000003 1615.107 267.816 1532.296 245.67000000000002 1452.687 224.38 1397.168 123.94900000000001 1315.808 137.04199999999997 1235.6 149.949 1191.3899999999999 238.423 1148.518 307.429 1110.5729999999999 368.504 1088.955 437.144 1084.7640000000001 508.925 1080.818 576.497 1099.893 640.977 1125.38 703.682 1151.856 768.821 1174.442 843.271 1235.109 878.817 1295.315 914.0930000000001 1370.455 882.315 1440 888.0260000000001' fill='%23cce1f7'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1059'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+	background-position: 100% 100%;
+}
+::-webkit-scrollbar {
+	width: 6px;
+}
+::-webkit-scrollbar-thumb {
+	background-color: rgb(157, 157, 157);
+	border-radius: 20px;
+}
+::-webkit-scrollbar-track {
+	background-color: transparent;
+}
+.progress-circle {
+	background: linear-gradient(#fff, #fff) padding-box, linear-gradient(to right, #8de4c6 100px, #fff 0) 0 0/100% 50px border-box,
+		linear-gradient(#fff, #fff) border-box;
+	background-repeat: no-repeat;
+	border: 4px solid transparent;
+}
+
+.user-progress {
+	background: linear-gradient(#fff, #fff) padding-box, linear-gradient(to right, #3249ff 100px, #fff 0) 0 0/50% 100px border-box,
+		linear-gradient(#fff, #fff) border-box;
+	background-repeat: no-repeat;
+	border: 4px solid transparent;
+}

@@ -1,0 +1,76 @@
+{
+   "courses": [
+      {
+         "id": "1",
+         "title": "Design Theory",
+         "duration": "24h 16m",
+         "percentage": "78%",
+         "color": "#C47AFF",
+         "progress": "5/8",
+         "people": "1k",
+         "bookmarks": "20",
+         "plays": "100",
+         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa sequi, ratione laboriosam ad, aliquid obcaecati accusamus consequuntur cum omnis atque minima! Natus, necessitatibus nam. Deleniti a adipisci fugit omnis pariatur! Animi nesciunt autem harum, veniam consequuntur similique fugit maiores repudiandae illo corporis dolorem voluptates eligendi vitae voluptas commodi, earum a aliquam rerum fugiat nemo vel in aperiam ratione nostrum! Blanditiis.Maiores distinctio omnis, magnam libero unde, nostrum a deserunt sapiente tempore cupiditate neque veniam iure! Quis debitis aut perspiciatis id consequatur sequi, odit veritatis reiciendis quisquam quaerat eaque alias nostrum."
+      },
+      {
+         "id": "2",
+         "title": "Illustration",
+         "duration": "14h 25m",
+         "percentage": "20%",
+         "color": "#CFF5E7",
+         "progress": "2/8",
+         "people": "2k",
+         "bookmarks": "30",
+         "plays": "97",
+         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa sequi, ratione laboriosam ad, aliquid obcaecati accusamus consequuntur cum omnis atque minima! Natus, necessitatibus nam. Deleniti a adipisci fugit omnis pariatur! Animi nesciunt autem harum, veniam consequuntur similique fugit maiores repudiandae illo corporis dolorem voluptates eligendi vitae voluptas commodi, earum a aliquam rerum fugiat nemo vel in aperiam ratione nostrum! Blanditiis.Maiores distinctio omnis, magnam libero unde, nostrum a deserunt sapiente tempore cupiditate neque veniam iure! Quis debitis aut perspiciatis id consequatur sequi, odit veritatis reiciendis quisquam quaerat eaque alias nostrum."
+      },
+      {
+         "id": "3",
+         "title": "Research User Objective",
+         "duration": "30h 46m",
+         "percentage": "99%",
+         "color": "#FFB3B3",
+         "progress": "8/8",
+         "people": "1k",
+         "bookmarks": "50",
+         "plays": "83",
+         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa sequi, ratione laboriosam ad, aliquid obcaecati accusamus consequuntur cum omnis atque minima! Natus, necessitatibus nam. Deleniti a adipisci fugit omnis pariatur! Animi nesciunt autem harum, veniam consequuntur similique fugit maiores repudiandae illo corporis dolorem voluptates eligendi vitae voluptas commodi, earum a aliquam rerum fugiat nemo vel in aperiam ratione nostrum! Blanditiis.Maiores distinctio omnis, magnam libero unde, nostrum a deserunt sapiente tempore cupiditate neque veniam iure! Quis debitis aut perspiciatis id consequatur sequi, odit veritatis reiciendis quisquam quaerat eaque alias nostrum."
+      },
+      {
+         "id": "4",
+         "title": "Usability",
+         "duration": "17h 19m",
+         "percentage": "50%",
+         "color": "#5A8F7B",
+         "progress": "4/8",
+         "people": "3k",
+         "bookmarks": "12",
+         "plays": "49",
+         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa sequi, ratione laboriosam ad, aliquid obcaecati accusamus consequuntur cum omnis atque minima! Natus, necessitatibus nam. Deleniti a adipisci fugit omnis pariatur! Animi nesciunt autem harum, veniam consequuntur similique fugit maiores repudiandae illo corporis dolorem voluptates eligendi vitae voluptas commodi, earum a aliquam rerum fugiat nemo vel in aperiam ratione nostrum! Blanditiis.Maiores distinctio omnis, magnam libero unde, nostrum a deserunt sapiente tempore cupiditate neque veniam iure! Quis debitis aut perspiciatis id consequatur sequi, odit veritatis reiciendis quisquam quaerat eaque alias nostrum."
+      },
+      {
+         "id": "5",
+         "title": "Design Thinking",
+         "duration": "19h 17m",
+         "percentage": "89%",
+         "color": "#FF8B8B",
+         "progress": "7/8",
+         "people": "1k",
+         "bookmarks": "10",
+         "plays": "58",
+         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa sequi, ratione laboriosam ad, aliquid obcaecati accusamus consequuntur cum omnis atque minima! Natus, necessitatibus nam. Deleniti a adipisci fugit omnis pariatur! Animi nesciunt autem harum, veniam consequuntur similique fugit maiores repudiandae illo corporis dolorem voluptates eligendi vitae voluptas commodi, earum a aliquam rerum fugiat nemo vel in aperiam ratione nostrum! Blanditiis.Maiores distinctio omnis, magnam libero unde, nostrum a deserunt sapiente tempore cupiditate neque veniam iure! Quis debitis aut perspiciatis id consequatur sequi, odit veritatis reiciendis quisquam quaerat eaque alias nostrum."
+      },
+      {
+         "id": "6",
+         "title": "Journey Mapping",
+         "duration": "10h 56m",
+         "percentage": "15%",
+         "color": "#FF7F3F",
+         "progress": "1/8",
+         "people": "2k",
+         "bookmarks": "25",
+         "plays": "71",
+         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa sequi, ratione laboriosam ad, aliquid obcaecati accusamus consequuntur cum omnis atque minima! Natus, necessitatibus nam. Deleniti a adipisci fugit omnis pariatur! Animi nesciunt autem harum, veniam consequuntur similique fugit maiores repudiandae illo corporis dolorem voluptates eligendi vitae voluptas commodi, earum a aliquam rerum fugiat nemo vel in aperiam ratione nostrum! Blanditiis.Maiores distinctio omnis, magnam libero unde, nostrum a deserunt sapiente tempore cupiditate neque veniam iure! Quis debitis aut perspiciatis id consequatur sequi, odit veritatis reiciendis quisquam quaerat eaque alias nostrum."
+      }
+   ]
+}
